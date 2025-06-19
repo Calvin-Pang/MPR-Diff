@@ -1,4 +1,4 @@
-# MPR-DiffAdd commentMore actions
+# MPR-Diff
 This repository contains the official implementation for MPR-Diff introduced in the following paper:
 
 MPR-Diff: a self-supervised diffusion model for multi-planar  reformation in prostate micro-ultrasound imaging
